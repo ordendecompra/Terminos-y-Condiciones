@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Términos y condiciones de uso del servicio: 
+## ordendecompra.cl
 
-You can use the [editor on GitHub](https://github.com/ordendecompra/tyc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_Última versión 16 de Julio, 2019_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Alcance
 
-### Markdown
+Los Términos y Condiciones de Uso de ordendecompra.cl, en adelante “Términos”, se encargan de establecer el Alcance de los servicios ofrecidos por Quetru Ltda. El CLIENTE deberá declarar que ha leído y acepta los presentes Términos que se encuentran a disposición del CLIENTE en el sitio web de ordendecompra.cl.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Con el objeto de ordenar el Alcance de la prestación del servicio, a continuación, se regulan:
 
-```markdown
-Syntax highlighted code block
+1. Servicio de órdenes de compra, vía aplicación web o móvil.
+2. Condiciones de uso de la ordendecompra.cl.
+3. Responsabilidad, Seguridad y datos
+4. Propiedad Intelectual.
+5. Limitación de Responsabilidad de Quetru Ltda.
+6. Garantía sobre la APP.
+7. Adaptaciones o nuevas versiones de la APP.
+8. Duración y terminación del Servicio.
+9. Disputas.
+10. Fuerza mayor.
+11. Ley aplicable y jurisdicción.
+12. Nuevos términos de Uso
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ordendecompra/tyc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
