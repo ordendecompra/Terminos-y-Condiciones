@@ -25,6 +25,7 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Changed
 - Aspecto general inicio
+- Versiones según Semantic Versioning
 
 ### Deprecated
 - Nuevo ID para cada item OC
