@@ -11,15 +11,13 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Botón para agregar nuevos usuarios
 - Funciones Back End para agregar nuevos usuarios
 
-### Changed
-
-
 ## [0.3-beta] - 2019-11-01
 ### Added
 - Items guardados por ID, permite reutilizarlos en nuevas OC
 - Sección: Productos y Servicios
 - Historial de precios en productos y servicios
 - Nuevo Manual
+- WebM manual
 
 
 ### Changed
