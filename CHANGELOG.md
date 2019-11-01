@@ -7,14 +7,31 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ## [Unreleased]
 
 ### Added
+- Preguntas Frecuentes
+- Botón para agregar nuevos usuarios
+- Funciones Back End para agregar nuevos usuarios
+
+### Changed
+
+
+## [0.3-beta] - 2019-11-01
+### Added
 - Items guardados por ID, permite reutilizarlos en nuevas OC
 - Sección: Productos y Servicios
 - Historial de precios en productos y servicios
 - Nuevo Manual
-- Preguntas Frecuentes
+
 
 ### Changed
 - Nuevo ítem OC a través de selector o nuevo texto, en vez de sólo texto
+- Funciones creación nuevos usuarios
+
+### Deprecated
+- Paso 'Revisión' de OC
+- Necesidad de email empresa para acceder al servicio
+
+### Fixed
+- Errores menores
 
 ## [0.2-beta] - 2019-09-25
 ### Added
