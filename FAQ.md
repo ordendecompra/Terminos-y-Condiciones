@@ -14,7 +14,11 @@ No, puede cancelar en cualquier momento
 
 ### ¿Estarán seguros los datos de mi tarjeta?
 
-Si. Los pagos se gestionan a través de transbank, vía plataforma QVO. Nosotros no guardamos ni guardaremos ningún dato de sus tarjetas
+Si. Los pagos se gestionan a través de transbank, vía plataforma QVO. 
+
+### ¿Pueden robar los datos de mi tarjeta?
+
+No guardamos ni guardaremos ningún dato de sus tarjetas
 
 ### ¿Solicitan datos de tarjeta para acceder al plan PRUEBA?
 

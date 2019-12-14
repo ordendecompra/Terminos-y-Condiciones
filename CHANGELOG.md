@@ -7,9 +7,19 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ## [Unreleased]
 
 ### Added
+- Indicadores: UF y Dólar del día, según SBIF
+- OC en dólares
+
+## [1.0-beta] - 2019-12-14
+### Added
 - Preguntas Frecuentes
-- Botón para agregar nuevos usuarios
-- Funciones Back End para agregar nuevos usuarios
+- Agregar y quitar usuarios con cualquier cuenta de correo
+- Contador usuarios
+
+### Changed
+- GIFs Página inicio
+- Planes
+- Ayuda
 
 ## [0.3-beta] - 2019-11-01
 ### Added
