@@ -21,6 +21,9 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Planes
 - Ayuda
 
+### Deprecated
+- Rol: usuario bloqueado
+
 ## [0.3-beta] - 2019-11-01
 ### Added
 - Items guardados por ID, permite reutilizarlos en nuevas OC
