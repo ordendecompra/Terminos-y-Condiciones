@@ -6,10 +6,6 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ## [Unreleased]
 
-### Added
-- Indicadores: UF y Dólar del día, según SBIF
-- OC en dólares
-
 ## [1.1-beta] - 2019-12-18
 ### Added
 - Grupo de CC
