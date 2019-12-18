@@ -10,6 +10,26 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Indicadores: UF y Dólar del día, según SBIF
 - OC en dólares
 
+## [1.1-beta] - 2019-12-18
+### Added
+- Grupo de CC
+- Filtro de CC por Grupo
+- Filtro de OC por Grupo
+- Dirección despacho OC
+
+### Changed
+- Dirección OC prellenada, edición manual o selección de direcciones previas
+
+### Removed
+- Rol: usuario bloqueado
+
+### Fixed
+- Errores menores
+
+### Security
+- No es posible crear dos CC con igual Nombre
+- No es posible crear dos CC con igual ID
+
 ## [1.0-beta] - 2019-12-14
 ### Added
 - Preguntas Frecuentes
@@ -24,6 +44,13 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ### Deprecated
 - Rol: usuario bloqueado
 
+### Removed
+- Paso 'Revisión' de OC
+- Necesidad de email empresa para acceder al servicio
+
+### Fixed
+- Errores menores
+
 ## [0.3-beta] - 2019-11-01
 ### Added
 - Items guardados por ID, permite reutilizarlos en nuevas OC
@@ -32,7 +59,6 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Nuevo Manual
 - WebM manual
 
-
 ### Changed
 - Nuevo ítem OC a través de selector o nuevo texto, en vez de sólo texto
 - Funciones creación nuevos usuarios
@@ -40,6 +66,9 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ### Deprecated
 - Paso 'Revisión' de OC
 - Necesidad de email empresa para acceder al servicio
+
+### Removed
+- Nuevo ID para cada item OC
 
 ### Fixed
 - Errores menores

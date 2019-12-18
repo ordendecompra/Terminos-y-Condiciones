@@ -42,4 +42,4 @@ No, y no la cambiaremos por usted. Por motivos de seguridad deberá anular la or
 
 ### Bloqueé una Orden de Compra. ¿Pueden desbloquearla por mí?
 
-Sólo desbloquearemos OC si lo solicita el titular de una empresa con Cuenta PYME o PRO.
+Sólo desbloquearemos OC, en un plazo de 2 días hábiles, si lo solicita el titular de una empresa con Cuenta PYME o PRO vía email.
