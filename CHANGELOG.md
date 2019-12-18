@@ -25,6 +25,7 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Fixed
 - Errores menores
+- Contenido menú Ayuda
 
 ### Security
 - No es posible crear dos CC con igual Nombre
