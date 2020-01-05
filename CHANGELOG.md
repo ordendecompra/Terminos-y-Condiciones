@@ -12,8 +12,9 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Filtro de CC por Grupo
 - Filtro de OC por Grupo
 - Dirección despacho OC
-- OC en dólares y pesos chilenos
+- OC en dólares, UF y pesos chilenos
 - Precio dólar y UF del día según API SBIF
+- Sección Indicadores Financieros en menú configuración
 
 ### Changed
 - Dirección OC prellenada, edición manual o selección de direcciones previas
