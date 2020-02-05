@@ -6,7 +6,19 @@ y este proyecto de adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ## [Unreleased]
 
-## [1.1-beta] - 2019-12-18
+## [1.2-beta] - 2020-02-05
+### Added
+- Guardar foto de cheque pago OC (sección pago, plan PRO)
+- Guardar foto de factura OC (sección pago, plan PRO)
+- Comentario texto libre en pago
+
+
+### Fixed
+- Errores menores
+- Contenido menú Ayuda
+- Contador OC
+
+## [1.1-beta] - 2019-01-18
 ### Added
 - Grupo de CC
 - Filtro de CC por Grupo
